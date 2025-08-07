@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const targetYear = 2024;
   const birthYear = 2001;
 
-  let currentDay = 7;
+  let currentDay = 8;
   let currentMonthIndex = 7;
   let currentYear = birthYear;
   let currentAge = 0;
